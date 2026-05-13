@@ -1,0 +1,1 @@
+It is solved by preprocessing the text,extracting features (TF-IDF), training a machine learning model(Naive Bayes) and evaluating itsperformance to predict whether new news is real or fake and create evaluation metrics(confusion matrix and ROC curve).
